@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "638845380056",
+    "firebase_url": "https://qreader-e420a.firebaseio.com",
+    "project_id": "qreader-e420a",
+    "storage_bucket": "qreader-e420a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638845380056:android:e48f04b91e5edf99",
+        "android_client_info": {
+          "package_name": "com.example.qreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638845380056-a2r4ps2npd8pi2u4dcqa024piecessjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qreader",
+            "certificate_hash": "03b415d113756d3384cdde5235631ab83c2a5b15"
+          }
+        },
+        {
+          "client_id": "638845380056-nlsd6m9546n8950l5kmuqa59ggo9fhct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwqXPHqUa6vt9ZORiGa4wAfBC52_mPPF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638845380056-nlsd6m9546n8950l5kmuqa59ggo9fhct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
